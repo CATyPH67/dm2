@@ -19,7 +19,7 @@ public class Main {
             switch (key) {
                 case (1):
                     for (int i = 0; i < arr.length; i++) {
-                        arr[i] = i;
+                        arr[i] = i + 1;
                     }
                     break;
 
